@@ -3,15 +3,12 @@
 
 -   🔭 I’m currently working on [Long Island Sound Ledger](https://longislandsoundledger.netlify.app/)
 
--   🌱 I’m currently learning **Remix**
+-   🌱 I’m currently learning **Next.js**
 
 -   👨‍💻 All of my projects are available at [https://www.michaelmarafino.com/](https://www.michaelmarafino.com/)
 
--   💬 Ask me about **the future of JavaScript**
-
 -   📫 How to reach me **michaelcmarafino@gmail.com**
 
--   ⚡ Fun fact **My wife refuses to buy me anymore books :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
