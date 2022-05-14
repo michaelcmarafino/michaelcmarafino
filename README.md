@@ -1,4 +1,4 @@
-![](https://github.com/michaelcmarafino/Michael_Marafino(banner).png)
+![](https://github.com/michaelcmarafino/michaelcmarafino/Michael_Marafino(banner).png)
 <h1 align="center">Hi 👋, I'm Michael</h1>
 <h3 align="center">💯 A detail-oriented full-stack developer 💯</h3>
 
