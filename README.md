@@ -20,7 +20,7 @@ Between work and pursuing my own outside interests, I have seen just how much th
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/michaelmarafino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="michaelmarafino" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/michael-c-marafino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-c-marafino/" height="30" width="30" /></a>
+<!-- <a href="https://linkedin.com/in/michael-c-marafino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-c-marafino/" height="30" width="30" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools</h3>
