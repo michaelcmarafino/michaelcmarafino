@@ -13,7 +13,7 @@ Now I devote my time to building those products and improving the world, one lin
 <h3 align="center">What I'm Up To:</h3>
 
 🔭 I’m currently working on [Long Island Sound Ledger](https://longislandsoundledger.netlify.app/) <br />
-🌱 I’m currently learning **Next.js** <br />
+🌱 I’m currently learning **PLC Programming with Structured Text for Automated Vehicles** <br />
 👨‍💻 All of my projects are available at [https://www.michaelmarafino.com/](https://www.michaelmarafino.com/) <br />
 📫 Let's chat! **michaelcmarafino@gmail.com**
 </div>
