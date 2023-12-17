@@ -1,7 +1,7 @@
 ![](https://github.com/michaelcmarafino/michaelcmarafino/blob/main/michaelMarafino.png)
 <br>
 
-<h1 align="center">Hello 👋, I'm Michael</h1>
+<h1 align="center">Hi 👋, I'm Michael</h1>
 <p align="center">Building and enhancing software is what I do. Passion for learning and improvement has always been part of me. Throughout my career, I studied operations intending to make processes for companies simpler, smoother, and more efficient.
 </p>
 <h5 align="center">
@@ -12,9 +12,9 @@ Now I devote my time to building those products and improving the world, one lin
 <div align="center">
 <h3 align="center">What I'm Up To:</h3>
 
-🔭 I’m currently working on [Long Island Sound Ledger](https://longislandsoundledger.netlify.app/) <br />
-🌱 I’m currently learning **PLC Programming with Structured Text for Automated Vehicles** <br />
-👨‍💻 All of my projects are available at [https://www.michaelmarafino.com/](https://www.michaelmarafino.com/) <br />
+🔭 I’m currently working at **America in Motion**, to help innovate in the field of automation <br />
+🌱 I’m currently focused on building with **Golang** and providing value to businesses across the USA <br />
+👨‍💻 My projects are available at [https://www.michaelmarafino.com/](https://www.michaelmarafino.com/) <br />
 📫 Let's chat! **michaelcmarafino@gmail.com**
 </div>
 
